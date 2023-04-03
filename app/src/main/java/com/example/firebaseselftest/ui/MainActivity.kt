@@ -1,9 +1,10 @@
-package com.example.firebaseselftest
+package com.example.firebaseselftest.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
+import com.example.firebaseselftest.R
 import com.example.firebaseselftest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
